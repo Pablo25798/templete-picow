@@ -1,2 +1,29 @@
 # templete-picow
 Para trabajos de microcontroladores
+
+
+```C
+/*
+ * Nombre del Archivo: main.c
+ * Autor:   [Tu Nombre]
+ * Correo:  [Tu Correo]
+ * Fecha:   [Fecha]
+ * Curso:   Lenguajes de Interfaz, TECNM Campus ITT
+ * 
+ * Objetivo:
+ * Este programa está diseñado para [proporcionar una breve descripción del objetivo del programa].
+ *
+ * Historial de Revisiones:
+ * [Fecha]        [Tu Nombre] - Creado
+ * [Fecha]        [Tu Nombre] - Actualizado para añadir [característica/corrección]
+ *
+ */
+
+#include <stdio.h>
+
+int main(void) {
+    // Tu código aquí
+    return 0;
+}
+
+```
