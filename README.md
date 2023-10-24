@@ -6,16 +6,16 @@ Para trabajos de microcontroladores
 ```C
 /*
  * Nombre del Archivo: main.c
- * Autor:   [Tu Nombre]
- * Correo:  [Tu Correo]
- * Fecha:   [Fecha]
+ * Autor:   [LAVENANT DURAN PABLO ROMAN]
+ * Correo:  [L21210385@tectijuana.edu.mx]
+ * Fecha:   [23-10-23]
  * Curso:   Lenguajes de Interfaz, TECNM Campus ITT
  * 
  * Objetivo:
  * Este programa está diseñado para [proporcionar una breve descripción del objetivo del programa].
  *
  * Historial de Revisiones:
- * [Fecha]        [Tu Nombre] - Creado
+ * [23-10-23]        [Lavenant Duran Pablo Roman 21210385] - Creado
  * [Fecha]        [Tu Nombre] - Actualizado para añadir [característica/corrección]
  *
  */
